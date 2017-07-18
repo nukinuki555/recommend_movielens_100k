@@ -30,8 +30,8 @@ output/
 - AE_2000k_L10000_output.png: オートエンコーダのRMSE評価のエポックごとの移動(隠れ層2000、学習10000回)
 - AE_gragh_300k_L5500.png: オートエンコーダのRMSE評価のエポックごとの移動(隠れ層3000(名前ミスってました...)、学習5500回)
 
-Recommendations/
-Recommendations_CM_output_test_movielens.csv: 協調フィルタリングで予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル)
-Recommendations_[BAE-output-2000k-L2500.csv:　オートエンコーダの隠れ層2000学習2500で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
-Recommendations_AE_output_2000k_L10000.csv: オートエンコーダの隠れ層2000学習10000で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
-Recommendations_AE_output_3000k_L5500.csv: オートエンコーダの隠れ層3000学習5500で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
+- Recommendations/
+- Recommendations_CM_output_test_movielens.csv: 協調フィルタリングで予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル)
+- Recommendations_[BAE-output-2000k-L2500.csv:　オートエンコーダの隠れ層2000学習2500で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
+- Recommendations_AE_output_2000k_L10000.csv: オートエンコーダの隠れ層2000学習10000で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
+- Recommendations_AE_output_3000k_L5500.csv: オートエンコーダの隠れ層3000学習5500で予想評点から高かった順に10項目をレコメンド((行: user_id, 列: 映画のタイトル))
